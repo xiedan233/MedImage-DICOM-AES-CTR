@@ -1,0 +1,10 @@
+# requirements.txt
+PyQt5==5.15.7
+pydicom==2.4.3
+numpy>=2.0.0
+matplotlib>=3.5.3
+pycryptodome==3.15.0
+cryptography==38.0.4
+pylibjpeg>=2.0
+pylibjpeg-libjpeg>=2.1
+gdcm>=3.0.10
