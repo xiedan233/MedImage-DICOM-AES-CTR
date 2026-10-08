@@ -23,15 +23,13 @@ Secure Transmission Tool for Medical Image Data Based on AES Algorithm in CTR Mo
 │   ├── server/              # 服务器端（加密、DICOM 处理、网络）
 │   ├── security/            # DH 密钥交换
 │   └── utils/               # 日志等工具
-├── 医疗DICOM数据处理软件DCMV/ # C++ / Qt 实现的 DICOM 查看器
+└── 医疗DICOM数据处理软件DCMV/ # C++ / Qt 实现的 DICOM 查看器
 │   ├── main.cpp
 │   ├── DicomViewer.cpp / .h
 │   ├── DicomHelper.cpp / .h
 │   └── DicomViewer.ui
-└── 报告.pdf                  # 项目报告
 ```
 
-> 注：原 `2023122092谢丹-工程实践3代码` 目录已重命名为 `代码`。
 
 ## 技术栈
 
